@@ -1,0 +1,5 @@
+# .gitignore
+_pycache_/
+*.pyc
+ASMIvenv/
+.env
